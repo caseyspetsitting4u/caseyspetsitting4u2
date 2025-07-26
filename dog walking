@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dog Walking Services</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Dog Walking Services</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="dog-walking.html">Dog Walking</a></li>
+        <li><a href="drop-ins.html">Drop-ins</a></li>
+        <li><a href="overnight-sitting.html">Overnight Pet Sitting</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section>
+    <h2>Keep Your Dog Active and Happy</h2>
+    <p>Our dog walking service provides your furry friend with the exercise and companionship they need. Whether it's a quick walk or a longer adventure, your dog will be in great hands!</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Casey's Pet Sitting 4U</p>
+  </footer>
+</body>
+</html>
