@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Overnight Pet Sitting</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Overnight Pet Sitting in Your Home</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="dog-walking.html">Dog Walking</a></li>
+        <li><a href="drop-ins.html">Drop-ins</a></li>
+        <li><a href="overnight-sitting.html">Overnight Pet Sitting</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section>
+    <h2>Peace of Mind for You and Your Pet</h2>
+    <p>Our overnight pet sitting service provides the ultimate peace of mind. We'll stay overnight in your home to take care of your pets, ensuring they feel comfortable and loved while you're away.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Casey's Pet Sitting 4U</p>
+  </footer>
+</body>
+</html>
