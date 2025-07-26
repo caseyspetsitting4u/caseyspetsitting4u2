@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Casey's Pet Sitting 4U</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Contact Casey's Pet Sitting 4U</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="dog-walking.html">Dog Walking</a></li>
+        <li><a href="drop-ins.html">Drop-ins</a></li>
+        <li><a href="overnight-sitting.html">Overnight Pet Sitting</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section>
+    <h2>Get In Touch</h2>
+    <form action="mailto:caseyspetsitting4u@gmail.com" method="post" enctype="text/plain">
+      <label for="name">Your Name:</label>
+      <input type="text" id="name" name="name" required><br><br>
+
+      <label for="email">Your Email:</label>
+      <input type="email" id="email" name="email" required><br><br>
+
+      <label for="phone">Your Phone Number:</label>
+      <input type="tel" id="phone" name="phone" required><br><br>
+
+      <label for="message">Message:</label><br>
+      <textarea id="message" name="message" rows="4" required></textarea><br><br>
+
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Casey's Pet Sitting 4U</p>
+  </footer>
+</body>
+</html>
